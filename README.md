@@ -1,7 +1,7 @@
 # Laravel Gentelella
 
 Laravel 5.8 templating with Gentelella (free admin template based on Bootstrap 4.x Framework)
-[Original Project](https://github.com/ColorlibHQ/gentelella)
+[Source Project](https://github.com/ColorlibHQ/gentelella)
 
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
